@@ -10,16 +10,3 @@ A Python project to collect, analyze, and predict high school cross country race
 - Predict race outcomes
 - Build a web app for simulations
 
-## Project Structure
-
-```
-XC-Race-Simulator/
-├── app/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-├── scraper/
-├── simulator/
-├── tests/
-```
