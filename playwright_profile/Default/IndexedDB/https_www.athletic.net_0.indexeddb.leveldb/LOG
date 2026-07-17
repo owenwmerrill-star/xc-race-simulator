@@ -1,6 +1,0 @@
-2026/07/15-11:31:44.321 920e4 Creating DB /Users/owenmerrill/XC-Race-Simulator/playwright_profile/Default/IndexedDB/https_www.athletic.net_0.indexeddb.leveldb since it was missing.
-2026/07/15-11:31:44.325 920e4 Reusing MANIFEST /Users/owenmerrill/XC-Race-Simulator/playwright_profile/Default/IndexedDB/https_www.athletic.net_0.indexeddb.leveldb/MANIFEST-000001
-2026/07/15-11:31:44.372 920e4 Level-0 table #5: started
-2026/07/15-11:31:44.373 920e4 Level-0 table #5: 1316 bytes OK
-2026/07/15-11:31:44.374 920e4 Delete type=0 #3
-2026/07/15-11:31:44.374 920e4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

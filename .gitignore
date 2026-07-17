@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Selenium / Playwright
+downloaded_files/
+playwright_profile/
+
+# SQLite database
+data/xc_database.db
+
+# Debug files
+debug.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
